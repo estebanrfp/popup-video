@@ -1,5 +1,5 @@
-popup-video
-===========
+popup-video v1.0
+================
 
 [demo](https://estebanrfp.github.io/popup-video)
 
